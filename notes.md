@@ -21,3 +21,6 @@
 + "Physical", "DNA length" and "mind" limits?
 + A set of transmissible signals between individuals?
 + Growing? Gestation?
++ Mating partner selection?
++ Mating period?
++ How to select (natural selection)?
